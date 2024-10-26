@@ -11,7 +11,7 @@ Teaching Experience
 - <strong > Harvard ES150: Probability with Engineering Applications, Spring 2023 </strong>
 <br>Section Leader
 <br>Rating: 5.0/5.0
-<br> Comments: <em> "The TFs in this class were absolutely incredible. Zhaolin was a phenomenal teacher. He knew the subject material perfectly and communicated it well. I learned the majority of the course’s content in his office hours, and I’m supremely grateful for it. Lina’s lucky to have such a great student!" </em>
+<br> Comments: <em> "The TFs in this class were absolutely incredible. Zhaolin was a phenomenal teacher. He knew the subject material perfectly and communicated it well. [...] Lina’s lucky to have such a great student!" </em>
 
 
 - <strong >Harvard AM 121: Introduction to Linear Optimization,  Fall 2020 </strong> <br> Section Leader <br>  Rating: 4.8/5.0
