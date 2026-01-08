@@ -11,9 +11,9 @@ redirect_from:
 Welcome!
 ======
 
-Hi! My name is Zhaolin, and I am a research scientist at Mitsubishi Electric Research Laboratories (MERL). Previously, I received my Ph.D. in Applied Mathematics from the School of Engineering and Applied Science at Harvard University, where I was advised by [Prof. Na Li](https://nali.seas.harvard.edu/). Before starting my Ph.D., I earned both a B.S. degree in Mathematics (with Distinction) and a M.S. degree in Statistics at Stanford University.
+Hi! My name is Zhaolin, and I am a research scientist at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com). Previously, I received my Ph.D. in Applied Mathematics from the School of Engineering and Applied Science at Harvard University, where I was advised by [Prof. Na Li](https://nali.seas.harvard.edu/). Before starting my Ph.D., I earned both a B.S. degree in Mathematics (with Distinction) and a M.S. degree in Statistics at Stanford University.
 
-I am generally interested in learning, optimization and control of real-world automation systems. Towards this goal, my Ph.D. focused on designing sample-efficient, scalable and theoretically principled optimization and control tools. I am currently interested in extending these tools and developing new approaches for safer, more agile and more efficient autonomous systems.
+I am generally interested in learning, optimization and control of real-world physical systems. Towards this goal, my Ph.D. focused on designing sample-efficient, scalable and theoretically principled optimization and control tools. I am currently interested in extending these tools and developing new approaches for safer, more agile and more efficient autonomous systems.
 
 
 <!-- 
